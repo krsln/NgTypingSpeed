@@ -1,4 +1,4 @@
-# NgQuiz
+# NgTypingSpeed 
 https://github.com/krsln/NgTypingSpeed 
 Demo [https://krsln.github.io/NgTypingSpeed](https://krsln.github.io/NgTypingSpeed)
 
